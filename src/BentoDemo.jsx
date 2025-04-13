@@ -15,7 +15,7 @@ const features = [
     href: "https://docs.google.com",
     cta: "",
     className: "col-span-3 lg:col-span-1",
-    background: <img src='../First-step.png' className="absolute -right-0 -top-0 opacity-60 w-full h-full object-cover group-hover:scale-110 transition-all duration-300 group-hover:blur-[1px] " />,
+    background: <img src='/One-Doc-Drop/First-step.png' className="absolute -right-0 -top-0 opacity-60 w-full h-full object-cover group-hover:scale-110 transition-all duration-300 group-hover:blur-[1px] " />,
   },
   {
     Icon: Share2Icon,
@@ -24,7 +24,7 @@ const features = [
     href: "#",
     cta: "",
     className: "col-span-3 lg:col-span-2",
-    background: <img src='../Second-step.png' className="absolute -right-0 -top-0 opacity-60 w-full  group-hover:scale-110 transition-all duration-300 group-hover:blur-[1px] " />,
+    background: <img src='/One-Doc-Drop/Second-step.png' className="absolute -right-0 -top-0 opacity-60 w-full  group-hover:scale-110 transition-all duration-300 group-hover:blur-[1px] " />,
   },
   {
     Icon: BellIcon,
@@ -33,7 +33,7 @@ const features = [
     href: "#",
     cta: "",
     className: "col-span-3 lg:col-span-2",
-    background: <img src='../Third-step.png' className="absolute -right-0 -top-16 opacity-60 w-full group-hover:scale-110 transition-all duration-300 group-hover:blur-[1px]" />,
+    background: <img src='/One-Doc-Drop/Third-step.png' className="absolute -right-0 -top-16 opacity-60 w-full group-hover:scale-110 transition-all duration-300 group-hover:blur-[1px]" />,
   },
   {
     Icon: FileTextIcon,
@@ -42,7 +42,7 @@ const features = [
     href: "#",
     cta: "",
     className: "col-span-3 lg:col-span-1",
-    background: <img src='../Fourth-step.png' className="absolute inset-0 object-cover opacity-60 w-full h-full group-hover:scale-110 transition-all duration-300 group-hover:blur-[1px] " />,
+    background: <img src='/One-Doc-Drop/Fourth-step.png' className="absolute inset-0 object-cover opacity-60 w-full h-full group-hover:scale-110 transition-all duration-300 group-hover:blur-[1px] " />,
   }
 ];
 

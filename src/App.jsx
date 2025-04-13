@@ -76,7 +76,7 @@ function App() {
       <div
         className="absolute inset-0 h-full w-full bg-white bg-[radial-gradient(#e5e7eb91_1px,transparent_1px)] [background-size:16px_16px]"
       ></div>
-      <img src="/one-doc-drop.webp" alt="One Doc Drop logo" className='absolute top-12 left-12 w-36' />
+      <img src="/One-Doc-Drop/one-doc-drop.webp" alt="One Doc Drop logo" className='absolute top-12 left-12 w-36' />
       <div className="aspect-square w-72 h-72 bg-red-600 rounded-full blur-[200px] absolute top-0 right-[5%]"></div>
       <div className="aspect-square w-72 h-72 bg-cyan-600 rounded-full blur-[190px] absolute left-[5%]"></div>
       <div className="aspect-square w-72 h-72 bg-cyan-600 rounded-full blur-[190px] absolute right-[25%] top-[60vh]"></div>
