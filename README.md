@@ -1,22 +1,42 @@
 # One Doc Drop
 
+![Version](https://img.shields.io/badge/version-1.0-blue)
+![React](https://img.shields.io/badge/React-supported-brightgreen?logo=react)
+![Vite](https://img.shields.io/badge/Vite-supported-646CFF?logo=vite)
+![License](https://img.shields.io/badge/license-MIT-green)
+![No Tracking](https://img.shields.io/badge/tracking-none-lightgrey)
+
 A modern web application for downloading Google Docs in various formats. Simply paste your Google Docs URL and download your document in the format you need.
 
-## 🌐 Live Demo
+![App Overview](screenshots/screenshot.png)
 
-Check out the live demo here: [One Doc Drop](https://mouadbt.github.io/One-Doc-Drop/)
+> [!IMPORTANT]
+> **Note:** To be able to download documents, you must be logged in to your Google account in the current browser session.
 
-## 📸 Screenshot
+## Table of Contents
+- [Screenshots](#screenshots)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+- [Available Scripts](#available-scripts)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
-![Screenshot](screenshots/screenshot.png)
+## Screenshots
+
+![Step 1](screenshots/1.png)
+
+![Step 2](screenshots/2.png)
+
+![Step 3](screenshots/3.png)
 
 ## ✨ Features
 
-- 📋 Easy Google Docs URL input
-- 📥 Multiple download format support
-- 🎨 Clean, modern UI with Tailwind CSS
-- ⚡ Fast and responsive
-- 🔄 Real-time feedback
+- 📋 **Easy Input**: Simply paste your Google Docs URL.
+- 📥 **Format Variety**: Support for multiple download formats.
+- 🎨 **Modern UI**: Clean interface built with Tailwind CSS and shadcn/ui.
+- ⚡ **Performance**: Fast and responsive user experience powered by Vite.
+- 🔄 **Real-time Feedback**: Immediate status updates during the download process.
 
 ## 🛠️ Tech Stack
 
@@ -38,7 +58,7 @@ Check out the live demo here: [One Doc Drop](https://mouadbt.github.io/One-Doc-D
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/mouadbt/Download-google-docs.git
    cd Download-google-docs
    ```
 
@@ -52,7 +72,7 @@ Check out the live demo here: [One Doc Drop](https://mouadbt.github.io/One-Doc-D
    npm run dev
    ```
 
-4. Open your browser and navigate to `http://localhost:5173`
+4. Open your browser and navigate to `http://localhost:5173/One-Doc-Drop`
 
 ## 📦 Available Scripts
 
