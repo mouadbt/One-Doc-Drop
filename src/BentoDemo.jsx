@@ -1,4 +1,3 @@
-import React from "react";
 import { Share1Icon, Link2Icon, DownloadIcon } from "@radix-ui/react-icons";
 import { BentoCard, BentoGrid } from "@/components/ui/bento-grid";
 import { File } from "lucide-react";
