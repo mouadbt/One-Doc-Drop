@@ -8,7 +8,7 @@
 
 A modern web application for downloading Google Docs in various formats. Simply paste your Google Docs URL and download your document in the format you need.
 
-![App Overview](screenshots/screenshot.png)
+![App Overview](screenshots/screenshot.webp)
 
 > [!IMPORTANT]
 > **Note:** To be able to download documents, you must be logged in to your Google account in the current browser session.
@@ -24,11 +24,11 @@ A modern web application for downloading Google Docs in various formats. Simply 
 
 ## Screenshots
 
-![Step 1](screenshots/1.png)
+![Step 1](screenshots/1.webp)
 
-![Step 2](screenshots/2.png)
+![Step 2](screenshots/2.webp)
 
-![Step 3](screenshots/3.png)
+![Step 3](screenshots/3.webp)
 
 ## ✨ Features
 
